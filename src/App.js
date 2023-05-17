@@ -6,7 +6,7 @@ function App() {
     <div>
 
     </div>
-  ); cxgsdg
+  );
 }
 
 export default App;
